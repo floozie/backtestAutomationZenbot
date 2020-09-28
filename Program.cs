@@ -380,7 +380,7 @@ namespace backtestAutomationZenbot
             
             List<string> makertaker = new List<string>();
             makertaker.Add("maker");
-            makertaker.Add("taker");
+            //makertaker.Add("taker");
             
             string csvresultfile ="";
             if(!resultFolder.EndsWith("/"))
